@@ -82,7 +82,7 @@ echo -e ""
 echo -e "${bldblu}Starting compilation ${txtrst}"
 
 # start compilation
-mka bacon
+mka otapackage
 echo -e ""
 
 # finished? get elapsed time
